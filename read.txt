@@ -1,1 +1,1 @@
-this is my first git push
+D:\工作文档\git代码\thirdparty\thrift\include;D:\工作文档\git代码\thirdparty\openssl\include;D:\工作文档\git代码\thirdparty\thirdparty\mysql-connector-c++\include;D:\工作文档\git代码\thirdparty\thirdparty\OPCClientToolKit\include;D:\工作文档\git代码\thirdparty\libevent\include;D:\工作文档\git代码\thirdparty\boost\include;
